@@ -25,5 +25,4 @@ dist-ssr
 
 .vercel
 .env
-.env.*
-.gitignore
+.env.*  
